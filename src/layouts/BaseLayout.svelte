@@ -1,7 +1,3 @@
-<script>
-    console.log($$slots)
-</script>
-
 <div>
     <header class="header-container">
         <slot name="header" greeting="Hello stanger!"></slot>
